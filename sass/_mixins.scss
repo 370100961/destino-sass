@@ -1,5 +1,6 @@
 @use 'variables' as var;
 
+
 @mixin displayFlex($gap: 32px, $justify: center){
     display: flex;
     gap: $gap;
